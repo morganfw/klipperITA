@@ -1,3 +1,4 @@
+---
 defaults:
   # _pages
   - scope:
@@ -6,6 +7,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+ ---
 
 # Guida Installazione Klipper e altri Componenti
 {: .fw-400 }
